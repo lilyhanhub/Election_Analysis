@@ -10,6 +10,9 @@ The purpose of this election analysis is to audit for the Colorado Board of Elec
 * Percentage of votes each candidate won
 * The winner of the election based on popular vote
 
+## Resources
+* Data Source: election_results.csv
+* Software: Python 3.9.12, Visual Studio Code, 1.68.0
 
 ## Election Audit Results
 There is a bulleted list where each election outcome is addressed.
