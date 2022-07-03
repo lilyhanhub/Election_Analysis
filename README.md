@@ -3,11 +3,11 @@ Election analysis of Colorado counties using Python
 
 ## Overview of Election Audit
 The purpose of this election analysis audit is to use Python to provide the Colorado Board of Elections the following information:
-1. Total number of votes cast
-2. A complete list of candidates who recieved votes
-3. Total number of votes each candidate received
-4. Percentage of votes each candidate won
-5. The winner of the election based on popular vote
+* Total number of votes cast
+* A complete list of candidates who recieved votes
+* Total number of votes each candidate received
+* Percentage of votes each candidate won
+* The winner of the election based on popular vote
 
 
 ## Election Audit Results
