@@ -16,7 +16,7 @@ The purpose of this election analysis is to audit for the Colorado Board of Elec
 
 ## Election Audit Results
 The election analysis audit shows that:
-* There were a total of 369,711 votes cast
+* There were a total of 369,711 votes cast: 10.5% of the votes coming from Jefferson county (38,855), 82.8% of the votes from Denver county (306,055), and 6.7% from Arapahoe county (24,801). 
 * 
 
 ![Screenshot of the election results](/Resources/election_results.png)
