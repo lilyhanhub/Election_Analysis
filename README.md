@@ -15,8 +15,11 @@ The purpose of this election analysis is to audit for the Colorado Board of Elec
 * Software: Python 3.9.12, Visual Studio Code, 1.68.0
 
 ## Election Audit Results
-There is a bulleted list where each election outcome is addressed.
+The election analysis audit shows that:
+* There were a total of 369,711 votes cast
 * 
+
+![Screenshot of the election results](/Resources/election_results.png)
 
 
 
