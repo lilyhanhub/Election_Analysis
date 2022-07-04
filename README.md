@@ -16,8 +16,7 @@ The purpose of this election analysis is to audit for the Colorado Board of Elec
 
 ## Election Audit Results
 There is a bulleted list where each election outcome is addressed.
-1. 
-2. 
+* 
 
 
 
