@@ -23,6 +23,7 @@ The congressional election analysis audit shows that:
   * Diana Degette received 73.8% of the votes (272,892).
   * Raymon Anthony Doane received 3.1% of the votes (11,606). 
 * The winner of the election was: Diana Degette who received 73.8% of the votes and 272,892 number of the votes. 
+
 ![Screenshot of the election results](/Resources/election_results.png)
 
 ## Election Audit Summary
