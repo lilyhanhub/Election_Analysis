@@ -27,7 +27,7 @@ The congressional election analysis audit shows that:
 ![Screenshot of the election results](/Resources/election_results.png)
 
 ## Election Audit Summary
-This python code written for the Colorado Board of Elections has successfully accomplished all the requirements, which proved that it could serve as a framework to analyze dataset of big scales for the future election use.
+[This python code](/PyPoll_Challenge.py) written for the Colorado Board of Elections has successfully accomplished all the requirements, which proved that it could serve as a framework to analyze dataset of big scales for the future election use.
 * The script can be applied to any electoral tabular dataset simply by changing the source of the data, as there would be different candidates or different counties. 
 * Also, It's easy to modify the script for any sort of elections, either a congressioanl or a state/local election, by modifying the county to the targeted region, which could be a state or a city. 
 
